@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=MeterUsage&k=1:
+  /?Action=MeterUsage:
     get:
       summary: Meter Usage
       description: API to emit metering records
