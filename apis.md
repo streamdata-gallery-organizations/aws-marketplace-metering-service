@@ -5,7 +5,7 @@ description: This is a repository of aws marketplace metering service APIs, self
   surrounding operations.
 image: http://template.streamdata.gallery/assets/aws-marketplace-metering-service.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://aws-marketplace-metering-service.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
